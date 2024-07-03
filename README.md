@@ -1,26 +1,26 @@
-**SQL_Savvy**
+# SQL_SAVVY
 
 Welcome to SQL_Savvy! This repository showcases several projects involving data scraping, cleaning, and advanced SQL querying. Here, you'll find detailed analyses, complex queries, and insightful results that demonstrate the power of SQL in handling real-world data.
 
-Table of Contents
+# Table of Contents
 
-Introduction
-Projects Overview
-Data Science Job Market Analysis
-Google Play Store Analysis
-Upcoming Projects
-Installation
-Usage
-Contributing
-License
-Contact
+**Introduction**
+**Projects Overview**
+*Data Science Job Market Analysis*
+*Google Play Store Analysis*
+**Upcoming Projects**
+**Installation**
+**Usage**
+**Contributing**
+**License**
+**Contact**
 
-Introduction
+# Introduction
 
 
 This repository contains a series of projects focused on different aspects of SQL. Each project includes data scraping, data cleaning, and sophisticated SQL queries to derive meaningful insights.
 
-Projects Overview
+# Projects Overview
 
 Data Science Job Market Analysis
 
@@ -53,8 +53,7 @@ WHERE salaries.amount > 100000;
 Insights
 Key job market trends
 
-
-Google Play Store Analysis
+# Google Play Store Analysis
 Description
 This project involved scraping data from the Google Play Store, cleaning the dataset, and performing complex SQL queries to analyze various aspects of the data.
 
@@ -75,43 +74,41 @@ Example Queries:
 sql
 Copy code
 -- Example of a complex query
+```bash
 SELECT app_name, AVG(rating) as average_rating
 FROM reviews
 GROUP BY app_name
 HAVING COUNT(*) > 1000
 ORDER BY average_rating DESC;
+```
 
 Insights
 App rating distributions
 Popular app categories
 Trends in user reviews
 
-Upcoming Projects
+# Upcoming Projects
 Stay tuned for more exciting projects involving diverse datasets and advanced SQL queries!
 
-Installation
+# Installation
 To get started with this repository, clone it to your local machine and set up the necessary dependencies.
 
 bash
 Copy code
+```bash
 git clone https://github.com/yourusername/SQL_Savvy.git
 cd SQL_Savvy
+```
 Ensure you have Python and MySQL installed on your system. Then, install the required Python packages:
 
-bash
-Copy code
-pip install -r requirements.txt
-Usage
-Detailed instructions for running the scripts and SQL queries can be found in the respective project folders.
 
-Contributing
+# Contributing
 We welcome contributions! Please read our Contributing Guidelines for more details.
 
-License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
+# Contact
 For any questions or feedback, please feel free to reach out:
 
 Email: paramveers9451@gmail.com
-GitHub: yourusername
