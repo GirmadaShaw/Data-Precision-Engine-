@@ -6,7 +6,7 @@ Welcome to SQL_Savvy! This repository showcases several projects involving data 
 
 **[Introduction](#Introduction)**
 
-**[Projects Overview](#ProjectOverview)**
+**[Projects Overview](#Project Overview)**
   - *[Data Science Job Market Analysis](#Google_Play)*
   - *[Google Play Store Analysis](#Data_Science)*
 
