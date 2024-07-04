@@ -116,8 +116,8 @@ To get started with this repository, clone it to your local machine and set up t
 
 
 ```bash
-git clone https://github.com/yourusername/SQL_Savvy.git
-cd SQL_Savvy
+git clone https://github.com/yourusername/DataPrecisionEnginey.git
+cd DataPrecisionEngine
 ```
 
 
