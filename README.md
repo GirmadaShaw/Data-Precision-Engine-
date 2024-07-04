@@ -1,6 +1,6 @@
-# SQL_SAVVY
+# DATA PRECISION ENGINE
 
-Welcome to SQL_Savvy! This repository showcases several projects involving data scraping, cleaning, and advanced SQL querying. Here, you'll find detailed analyses, complex queries, and insightful results that demonstrate the power of SQL in handling real-world data.
+Welcome! This repository showcases several projects involving data scraping, cleaning, and advanced SQL querying. Here, you'll find detailed analyses, complex queries, and insightful results that demonstrate the power of SQL in handling real-world data.
 
 # Table of Contents
 
